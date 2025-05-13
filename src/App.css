@@ -1,0 +1,17 @@
+.meme-img img{
+  height: 600px;
+  max-width: 90%;
+  min-width: 30%;
+}
+.meme-top-text{
+  position: absolute;
+  top: 15px;
+  left: 15%x;
+}
+.meme-header img{
+  width: 100%;
+  height: 290px;
+}
+.main-body{
+  padding: 0 6px;
+}
